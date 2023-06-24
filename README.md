@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **karthik.ka2001@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1P5qiEw7LxXZPoBtxYXDwJKx4-yIRYiI_/view?usp=drivesdk](https://drive.google.com/file/d/1P5qiEw7LxXZPoBtxYXDwJKx4-yIRYiI_/view?usp=drivesdk)
+- 📄 Resume [https://drive.google.com/file/d/1P5qiEw7LxXZPoBtxYXDwJKx4-yIRYiI_/view?usp=drivesdk](https://drive.google.com/file/d/1P5qiEw7LxXZPoBtxYXDwJKx4-yIRYiI_/view?usp=drivesdk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
