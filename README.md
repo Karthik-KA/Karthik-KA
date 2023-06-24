@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/karthik-ka](https://github.com/karthik-ka)
 
-- 📫 How to reach me **karthik.ka@2001gmail.com**
+- 📫 How to reach me **karthik.ka2001@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1P5qiEw7LxXZPoBtxYXDwJKx4-yIRYiI_/view?usp=drivesdk](https://drive.google.com/file/d/1P5qiEw7LxXZPoBtxYXDwJKx4-yIRYiI_/view?usp=drivesdk)
 
