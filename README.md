@@ -10,11 +10,11 @@
 
 - 👨‍💻 All of my projects are available at [Github repo](https://github.com/karthik-ka)
 
-- 💬 Ask me about **React.js, Node.js, MongoDB, MySQL**
+- 💬 Ask me about **React.js, Node.js, MongoDB**
 
 - 📫 How to reach me **karthik.ka2001@gmail.com**
 
-- 📄 Know about my experiences [Checkout Resume](https://drive.google.com/file/d/1P5qiEw7LxXZPoBtxYXDwJKx4-yIRYiI_/view?usp=drivesdk)
+- 📄 Know about my experiences [Checkout Resume](https://drive.google.com/file/d/1pwzqbsaoFJz1VUQGQuWWzS43VexPcILD/view?usp=drivesdk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
