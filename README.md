@@ -2,21 +2,21 @@
 <!--![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)-->
 
 <h1 align="center">Hi 👋, I'm Karthik</h1>
-<h3 align="center">A passionate web developer</h3>
+<h3 align="center">Cyber Security Professional</h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/karthik-ka/karthik-ka/assets/81426274/5df1e379-c73a-48b2-a717-70d2bc440878">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karthik-ka&label=Profile%20views&color=0e75b6&style=flat" alt="karthik-ka" /> </p>
 
-- 🌱 I’m currently learning **MERN** Stack
+- 🌱 I’m currently exploring **Cybersecurity**
 
 - 👨‍💻 All of my projects are available at [Github repo](https://github.com/karthik-ka)
 
-- 💬 Ask me about **React.js, Node.js, MongoDB**
+- 💬 Ask me about **Cybersecurity, Web Development**
 
 - 📫 How to reach me **karthik.ka2001@gmail.com**
 
 - 🖼 Check out my portfolio <a href="https://karthik-ka.netlify.app">Here</a>
 
-- ✍ You can find my resume <a href="https://github.com/karthik-ka/karthik-ka/files/12180925/Resume.pdf">here</a>
+- ✍ You can find my resume <a href="https://drive.google.com/file/d/1zaNTYyQJrLSGGKbJQN4FZOCrh5dmTwXx/view">here</a>
 
 
 <h3 align="left">Connect with me:</h3>
